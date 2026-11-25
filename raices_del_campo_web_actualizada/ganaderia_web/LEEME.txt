@@ -1,0 +1,29 @@
+RAÍCES DEL CAMPO — Página web de ganadería
+
+ARCHIVOS
+- index.html: página principal con diseño adaptable a celulares y computadoras.
+- assets/: contiene las tres fotografías que compartiste.
+
+CÓMO VERLA
+1. Descomprime el archivo ZIP.
+2. Abre la carpeta ganaderia_web.
+3. Abre index.html con Chrome o cualquier navegador.
+
+CÓMO PUBLICARLA GRATIS CON GITHUB PAGES
+1. Crea una cuenta en https://github.com/
+2. Crea un repositorio público nuevo.
+3. Sube index.html y la carpeta assets completa (no solo el HTML).
+4. En Settings > Pages, selecciona Deploy from a branch.
+5. Elige la rama main y la carpeta /(root), guarda y espera a que GitHub publique el sitio.
+
+Nota: la tipografía se carga desde Google Fonts cuando hay conexión a Internet. Las fotografías están incluidas localmente.
+
+
+PERSONALIZACIÓN IMPORTANTE
+La página incluye identidad visual, ubicación, catálogo ganadero y contacto.
+Antes de publicarla:
+- Cambia “Hacienda Raíces del Campo” por el nombre real, si deseas.
+- Completa la ubicación de la hacienda.
+- Sustituye las categorías de ejemplo por el ganado que realmente tengas.
+- Añade un teléfono/WhatsApp y correo autorizados.
+- Puedes reemplazar las fotografías por otras propias manteniendo los nombres de archivo o actualizando sus rutas en index.html.
